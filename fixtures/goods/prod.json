@@ -1,0 +1,212 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Белая футболка",
+            "slug": "belaya-futbolka",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "800.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Серая футболка",
+            "slug": "seraya-futbolka",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "800.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Черная футболка",
+            "slug": "chernaya-futbolka",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "800.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Черный худи",
+            "slug": "chernyj-hudi",
+            "description": "Шьется из футера 3-х нитки с начесом, состав 90% хлопок и 10% синтетика.",
+            "image": "",
+            "price": "1300.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Серый худи",
+            "slug": "seryj-hudi",
+            "description": "Шьется из футера 3-х нитки с начесом, состав 90% хлопок и 10% синтетика.",
+            "image": "",
+            "price": "1300.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Белый худи",
+            "slug": "belyj-hudi",
+            "description": "Шьется из футера 3-х нитки с начесом, состав 90% хлопок и 10% синтетика.",
+            "image": "",
+            "price": "1300.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Серый лонгслив",
+            "slug": "seryj-longsliv",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Черный лонгслив",
+            "slug": "chernyj-longsliv",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Белые штаны",
+            "slug": "belye-shtany",
+            "description": "Шьется из футера 3-х нитки с начесом, состав 90% хлопок и 10% синтетика.",
+            "image": "",
+            "price": "1200.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Черные штаны",
+            "slug": "chernye-shtany",
+            "description": "Шьется из футера 3-х нитки с начесом, состав 90% хлопок и 10% синтетика.",
+            "image": "",
+            "price": "1200.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Серые шорты",
+            "slug": "serye-shorty",
+            "description": "Шьется из футера 3-х нитки без начеса, состав 100% хлопок.",
+            "image": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Белые шорты",
+            "slug": "belye-shorty",
+            "description": "Шьется из футера 3-х нитки без начеса, состав 100% хлопок.",
+            "image": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Черные шорты",
+            "slug": "chernye-shorty",
+            "description": "Шьется из футера 3-х нитки без начеса, состав 100% хлопок.",
+            "image": "",
+            "price": "1000.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Черная майка",
+            "slug": "chernaya-majka",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 9
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Белая майка",
+            "slug": "belaya-majka",
+            "description": "Шьется из кулирной глади, состав 100% хлопок.",
+            "image": "",
+            "price": "500.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 9
+        }
+    }
+]
